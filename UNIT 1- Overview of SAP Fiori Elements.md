@@ -11,3 +11,21 @@ Después de completar esta unidad, podrá:
 - Explicar el uso de SADL para publicar vistas CDS en un servicio OData
 - Enumerar los pasos para implementar una extensión de metadatos
 - Enumerar los escenarios para la implementación de SAP Fiori Elements
+
+
+## Contenido
+- Explicación de la arquitectura de Fiori Elements
+
+- Explicación de las plantillas para Fiori Elements
+
+- Exploración del proceso básico de creación de aplicaciones de Fiori Elements
+
+- Uso de la vista Core Data Services (CDS)
+
+- Uso del lenguaje de definición de adaptación de servicios (SADL)
+
+- Explicación de la extensión de metadatos
+
+- Escenarios de aprendizaje de la implementación de Fiori Elements
+
+- Cuestionario
